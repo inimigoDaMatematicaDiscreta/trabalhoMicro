@@ -74,5 +74,7 @@ void loop() {
     delay(2000);  
   }
 
+  //teste
+
   delay(INTERVALO);  
 }
